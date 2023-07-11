@@ -56,7 +56,7 @@
 
 /* feature flower section style */
 .feature-flower-section {
-    height: 100vh;
+    height: 70vh;
     background-color: #FFF;
 }
 
@@ -65,7 +65,7 @@
 }
 
 .feature-flower-title {
-    padding-top: 180px;
+    padding-top: 100px;
     color: #272727;
     font-size: 40px;
     font-weight: 800;
@@ -84,32 +84,31 @@
 .feature-flower-img {
 
 
-    margin: 0px 150px 50px 150px  ;
+    margin: 0px 240px 50px 240px  ;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 50px ;
+    
 
 
 }
 
 .feature-flower-img img {
-    height: 500px;
-    width: 400px ;
+    height: 300px;
+    width: 220px ;
   
     padding: 110px 78px 0px 78px;
 
 }
 
 .img-1 {
-    height: 250px;
-    
+    height: 190px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
 }
 
 .img-2 {
-    height: 250px;
+    height: 190px;
 
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
@@ -119,7 +118,7 @@
 }
 
 .img-3 {
-    height: 250px;
+    height: 190px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
 
