@@ -121,21 +121,7 @@
     height: 190px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
-
 }
-
-/* .feature-flower-img1 {
-    width: 400px;
-    height: 600px;
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(167, 33, 98, 0.15);
-
-} */
-
-
-
-
-
 
 /* hot deal section */
 
@@ -155,7 +141,7 @@
     color: #272727;
     font-size: 40px;
     font-weight: 800;
-    width: 60%;
+    width: 50%;
     margin: auto;
 }
 
